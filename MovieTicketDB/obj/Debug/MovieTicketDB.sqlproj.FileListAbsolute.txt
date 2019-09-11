@@ -1,0 +1,26 @@
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.dacpac
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.dll
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.pdb
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.dll
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.pdb
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.sqlprojResolveAssemblyReference.cache
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\Model.xml
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\refactor.xml
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\postdeploy.sql
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\predeploy.sql
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.dacpac
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.dll
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.pdb
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.sqlprojResolveAssemblyReference.cache
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.dll
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.pdb
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.dacpac
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.dll
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\bin\Debug\MovieTicketDB.pdb
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.sqlprojResolveAssemblyReference.cache
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\Model.xml
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\refactor.xml
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\postdeploy.sql
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\predeploy.sql
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.dll
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\MovieTicketDB\obj\Debug\MovieTicketDB.pdb

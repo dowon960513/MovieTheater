@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Time]
+(
+	[TimeId] INT NOT NULL PRIMARY KEY IDENTITY,
+	[TimeStart] NVARCHAR(10) NOT NULL,
+	[TimeEnd] NVARCHAR(10) NOT NULL,
+)

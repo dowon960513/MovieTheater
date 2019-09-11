@@ -1,0 +1,53 @@
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csprojResolveAssemblyReference.cache
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.MovieTicketForm.resources
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.PasswordForm.resources
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.PaymentForm.resources
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.Properties.Resources.resources
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.GenerateResource.cache
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.exe.config
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.exe
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.pdb
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.dll
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.xml
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.ReportForm.resources
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.CopyComplete
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.exe
+C:\Users\kim\Desktop\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.pdb
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.exe.config
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.exe
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.pdb
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.dll
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.xml
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csprojResolveAssemblyReference.cache
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.MovieTicketForm.resources
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.PasswordForm.resources
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.PaymentForm.resources
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.Properties.Resources.resources
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.ReportForm.resources
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.GenerateResource.cache
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.CopyComplete
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.exe
+C:\Users\kim\Desktop\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.pdb
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.exe.config
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.exe
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\ProjectTeam08MovieTheater.pdb
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.dll
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.xml
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csprojResolveAssemblyReference.cache
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.MovieTicketForm.resources
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.PasswordForm.resources
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.PaymentForm.resources
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.Properties.Resources.resources
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.ReportForm.resources
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.GenerateResource.Cache
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.csproj.CoreCompileInputs.cache
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.exe
+C:\Users\300267428\OneDrive - Douglas College\Client Server\Project\ProjectTeam08MovieTheater\ProjectTeam08MovieTheater\obj\Debug\ProjectTeam08MovieTheater.pdb

@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[Order]
+(
+	[OrderId] INT NOT NULL PRIMARY KEY IDENTITY,
+	[MovieId] INT NOT NULL,
+	[CustId] INT NOT NULL,
+	[TimeId] INT NOT NULL,
+	[OrderTicketNum] INT NOT NULL,
+	[OrderAmount] FLOAT NOT NULL
+	CONSTRAINT [FK_Order_Movie] FOREIGN KEY ([MovieId]) REFERENCES [Movie]([MovieId]) ON DELETE CASCADE,
+	CONSTRAINT [FK_Order_Time] FOREIGN KEY ([TimeId]) REFERENCES [Time]([TimeId]) ON DELETE CASCADE,
+	CONSTRAINT [FK_Order_Customer] FOREIGN KEY ([CustId]) REFERENCES [Customer]([CustId]) ON DELETE CASCADE,
+)
+
